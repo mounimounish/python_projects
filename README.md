@@ -154,8 +154,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [mounimounish]https://github.com/mounimounish
+- Email: mounimounish1437@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mounish-m18/
 ## 🤝 Contributing
 
